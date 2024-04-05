@@ -9,7 +9,7 @@ SOLID stands for:
 4. I - Interface Segregation Principle
 5. D - Dependency Inversion Principle
 
-################################################################################
+########################################################################################################
           Single Responsibility Principle
 Each class should be responsible for a single part or functionality of the system
 ################################################################################
