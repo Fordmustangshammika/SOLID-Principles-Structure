@@ -3,7 +3,7 @@ These principles establish practices that lend to developing software with consi
 
 SOLID stands for:
 
-1. S - Single-responsiblity Principle
+1. S - Single-responsiblity Principle : Each class should be responsible for a single part or functionality of the system
 2. O - Open-closed Principle
 3. L - Liskov Substitution Principle
 4. I - Interface Segregation Principle
