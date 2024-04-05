@@ -12,6 +12,7 @@ SOLID stands for:
 ###########################################################################################################
 (1)Single Responsibility Principle :
 Each class should be responsible for a single part or functionality of the system
+<br>
 ################################################################################################################
 (2)Open-Closed Principle :
 Software components should be open for extension, but not for modification.
