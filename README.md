@@ -10,18 +10,21 @@ SOLID stands for:
 5. D - Dependency Inversion Principle
 
 ################################################################################
-1. Single Responsibility Principle
-   
+Single Responsibility Principle
 Each class should be responsible for a single part or functionality of the system
+################################################################################
 
-3. Open-Closed Principle
+Open-Closed Principle
 Software components should be open for extension, but not for modification.
+################################################################################
 
-4. Liskov Substitution Principle
+Liskov Substitution Principle
 Objects of a superclass should be replaceable with objects of its subclasses without breaking the system.
+################################################################################
 
-5. Interface Segregation Principle
+Interface Segregation Principle
 No client should be forced to depend on methods that it does not use.
+################################################################################
 
-6. Dependency Inversion Principle
+Dependency Inversion Principle
 High-level modules should not depend on low-level modules, both should depend on abstractions.
